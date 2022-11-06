@@ -398,17 +398,20 @@ There are two layers in the internal structure of the bot each having acrylic sh
 The top layer is held on the bottom layer using metal spacers, screws and bolts. The wheels are attached to the sphere internally using double sided tape and hence, both the hemispheres are brought together and locked to finally complete the spherical bot.
 
 The following pics show the internal structure:
+
 ![5919907c46ac10c69b6651addddf5fa9.png](../_resources/c9e5043016d44f5c944ba2b50562b546.png)
 
+
 ![d5af807e368d3582f6271f7173053a7c.png](../_resources/b54b3b5a654e45fc874ab56fddc1b59b.png)
+
 
 ![3993f85c6f700ab4b4649e248ae56d16.png](../_resources/0a83554767244fda9980363c877b82be.png)
 
 
 Our final bot looks like this after the assembly:
+
 ![6d7669a47b1427bd4d0a5e7cae76bd09.png](../_resources/4ebcb950725e4d39aa4e4dd8efc22e63.png)
 
----
 ---
 
 
